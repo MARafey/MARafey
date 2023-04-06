@@ -1,30 +1,73 @@
-# 💫 About Me:
-- 🔭 I’m currently working on [Snake Game](https://github.com/MARafey/Snake-Game.git)<br><br>- 🌱 I’m currently learning **SQL**<br><br>- 👯 I’m looking to collaborate on [K-Mean-Clustering](https://github.com/ayra-alamdar/K-Mean-Clustering.git)<br><br>- 🤝 I’m looking for help with [Snake Game](https://github.com/MARafey/Snake-Game.git)<br><br>- 👨‍💻 All of my projects are available at [https://github.com/MARafey](https://github.com/MARafey)<br><br>- 💬 Ask me about **C++/C, Assembly**<br><br>- 📫 How to reach me **m.a.rafey1215@gmail.com**<br><br>- 📄 Know about my experiences [https://www.linkedin.com/in/muhammad-abdur-rafey-a15124248/](https://www.linkedin.com/in/muhammad-abdur-rafey-a15124248/)<br><br>- ⚡ Fun fact **I'm not rude I'm just honest. :*)**
+<h1 align = "center">Hi! I'm Muhammad Abdur Rafey :wave: <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Courier&pause=1000&color=18EBF7&width=435&lines=Computer+Science+Student;Problem+Solver;Chess+Player;Always%20wanting%20Learning&center=true&width=500&height=50"> <h4 align="center">I am a 4th Year CS Student at FAST-NUCES in Islamabad, Pakistan, and my love for learning knows no bounds. As a problem-solving enthusiast, I am always seeking new challenges and innovative solutions. With a keen interest in Physics and its intersection with Computer Science, I believe the possibilities for improving the world are limitless.
 
+But that's not all – I am also a social butterfly, constantly on the lookout for opportunities to network and exchange ideas. And when it comes to acquiring new skills, I am like a sponge, soaking up knowledge and always eager to learn new languages and software.
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/#3824) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/muhammad._.abdur._.rafey/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-abdur-rafey-a15124248/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/M.A.Rafey) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/idk_Rafey) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/M_A_Rafey) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/@MARafey) 
+If you want a motivated, versatile, and passionate team player, look no further – I am your person!</h4> <br>
+  
+ 
+  <h2 align="center">Stats:
+  <p align="center">
+	<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadSaadHasan&theme=react" alt="MARafey"  /></p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MARafey&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MARafey&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MARafey&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
+  &nbsp;
+  <p align="center">
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MARafey&show_icons=true&locale=en&layout=compact&theme=react" alt="MuhammadSaadHasan" height="192px"/>
+	  <a></a>
+</p>
+  <h2 align="center">Skills :
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MARafey&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<h4 align="center">
+
+<img align="center" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+<img align="center" alt="CSS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+<img align="center" alt="C" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
+<img align="center" alt="C++" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
+<img align="center" alt="C#" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
+<img align="center" alt="SQL" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg">
+<img align="center" alt="OpenCV" width="40px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"/>
+<img align="center" alt="Python" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg"/>
+<img align="center" alt="Linux" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
+	
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=M_A_Rafey)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+<div align="center">
+  <a href="https://github.com/VishwaGauravIn/github-twitter-card-embed">
+    <img src="https://gtce.itsvg.in/api?username=M_A_Rafey" alt="GitHub-Twitter Card Embed" />
+  </a>
+</div>
 
+
+ ## <h2 align="center">Socials :
+<h4 align="center">
+<a href="https://www.linkedin.com/in/muhammad-abdur-rafey-a15124248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-saad-hasan" height="30" width="40" /></a>
+  <a></a>
+<a href="https://github.com/MARafey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="MARafey" height="30" width="40" /></a>
+    <a></a>
+<a href="https://www.instagram.com/muhammad._.abdur._.rafey/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammad._.abdur._.rafey" height="30" width="40" /></a>
+  <a></a>
+<a href="https://twitter.com/M_A_Rafey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muhammad rafey" height="30" width="40" /></a>
+ 
+</p>
+<br><br>
+   
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=MuhammadSaadHasan18&label=Profile%20views&color=0e75b6&style=plastic" alt="MuhammadSaadHasan" /> </p>
+ 
+ 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MARafey&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MARafey&limit=5&theme=dark&include_all_commits=true" alt="GitHub contributors stats"/>
+</div>
+
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+ <p align="center">
+ <img src="https://rm.up.railway.app/" width="512px"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MARafey&icon=8&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=MARafey" alt="visitor badge"/>
+</div>
+
