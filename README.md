@@ -26,6 +26,7 @@ If you want a motivated, versatile, and passionate team player, look no further 
 <img align="center" alt="C#" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
 <img align="center" alt="SQL" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg">
 <img align="center" alt="OpenCV" width="40px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"/>
+<img align="center" alt="Matlab" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg"/>
 <img align="center" alt="Python" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg"/>
 <img align="center" alt="Linux" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
 	
