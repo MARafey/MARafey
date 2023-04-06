@@ -12,7 +12,7 @@ If you want a motivated, versatile, and passionate team player, look no further 
 <br/>
   &nbsp;
   <p align="center">
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MARafey&show_icons=true&locale=en&layout=compact&theme=react" alt="MuhammadSaadHasan" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MARafey&show_icons=true&locale=en&layout=compact&theme=react" alt="MARafey" height="192px"/>
 	  <a></a>
 </p>
   <h2 align="center">Skills :
