@@ -7,7 +7,7 @@ If you want a motivated, versatile, and passionate team player, look no further 
  
   <h2 align="center">Stats:
   <p align="center">
-	<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadSaadHasan&theme=react" alt="MARafey"  /></p>
+	<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MARafey&theme=react" alt="MARafey"  /></p>
 
 <br/>
   &nbsp;
