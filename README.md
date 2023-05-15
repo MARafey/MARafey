@@ -5,9 +5,11 @@ But that's not all – I am also a social butterfly, constantly on the lookout f
 If you want a motivated, versatile, and passionate team player, look no further – I am your person!</h4> <br>
   
  
-  <h2 align="center">Stats:
-  <p align="center">
-	<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MARafey&theme=react" alt="MARafey"  /></p>
+  <h2 align="center">Stats:</h2>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MARafey&theme=react" alt="MARafey" />
+</p>
+
 
 <br/>
   &nbsp;
