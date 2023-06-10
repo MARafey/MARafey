@@ -37,7 +37,8 @@ If you want a motivated, versatile, and passionate team player, look no further 
 ## 🐦 Latest Tweet
 <div align="center">
   <a href="https://github.com/VishwaGauravIn/github-twitter-card-embed">
-    <img src="https://gtce.itsvg.in/api?username=M_A_Rafey" alt="GitHub-Twitter Card Embed" />
+	  <a href="https://gtce.itsvg.in/"><img src="https://gtce.itsvg.in/api?username=M_A_Rafey"/></a>
+
   </a>
 </div>
 
