@@ -34,48 +34,6 @@ If you want a motivated, versatile, and passionate team player, look no further 
 <img align="center" alt="Linux" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
 	
 
-<!-- Tower of Hanoi Visualization -->
-<div align="center">
-  <h2>Tower of Hanoi</h2>
-  <div id="towerOfHanoi"></div>
-</div>
-
-<!-- Script to visualize Tower of Hanoi -->
-<script>
-function towerOfHanoi(n, sourceRod, auxiliaryRod, destinationRod, result = []) {
-  if (n === 1) {
-    result.push(`Move disk 1 from rod ${sourceRod} to rod ${destinationRod}`);
-    return;
-  }
-
-  towerOfHanoi(n - 1, sourceRod, destinationRod, auxiliaryRod, result);
-  result.push(`Move disk ${n} from rod ${sourceRod} to rod ${destinationRod}`);
-  towerOfHanoi(n - 1, auxiliaryRod, sourceRod, destinationRod, result);
-  return result;
-}
-
-function visualizeTowerOfHanoi(numberOfDisks) {
-  const result = towerOfHanoi(numberOfDisks, 'A', 'B', 'C');
-  const towerOfHanoiDiv = document.getElementById('towerOfHanoi');
-  const paragraph = document.createElement('p');
-  paragraph.textContent = `Number of Disks: ${numberOfDisks}`;
-  towerOfHanoiDiv.appendChild(paragraph);
-
-  const stepsDiv = document.createElement('div');
-  result.forEach((step, index) => {
-    const stepElement = document.createElement('p');
-    stepElement.textContent = `${index + 1}. ${step}`;
-    stepsDiv.appendChild(stepElement);
-  });
-
-  towerOfHanoiDiv.appendChild(stepsDiv);
-}
-
-visualizeTowerOfHanoi(3); // Change the number of disks here
-</script>
-
-
-
  ## <h2 align="center">Socials :
 <h4 align="center">
 <a href="https://www.linkedin.com/in/muhammad-abdur-rafey-a15124248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-saad-hasan" height="30" width="40" /></a>
