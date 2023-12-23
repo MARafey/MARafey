@@ -65,14 +65,3 @@ If you want a motivated, versatile, and passionate team player, look no further 
 </div>
 
 
-### 😂 Random Dev Meme
- <p align="center">
- <img src="https://rm.up.railway.app/" width="512px"/>
-</p>
-
----
-
-<div align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=MARafey" alt="visitor badge"/>
-</div>
-
