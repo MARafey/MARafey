@@ -46,8 +46,6 @@ If you want a motivated, versatile, and passionate team player, look no further 
  
 </p>
 <br><br>
-   
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=MuhammadSaadHasan18&label=Profile%20views&color=0e75b6&style=plastic" alt="MuhammadSaadHasan" /> </p>
  
  
 ### 🔝 Top Contributed Repo
